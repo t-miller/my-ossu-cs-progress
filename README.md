@@ -12,20 +12,28 @@
 - [Summary](#summary)
 - [Template](#template)
 - [Progress](#progress)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Intro CS](#intro-cs)
+    - [Introduction to Programming](#introduction-to-programming)
+    - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
     - [Core Programming](#core-programming)
     - [Math Electives](#math-electives)
+      - [Calculus](#calculus)
       - [Linear Algebra](#linear-algebra)
+      - [Logic](#logic)
+      - [Probability](#probability)
     - [Core Math](#core-math)
     - [CS Tools](#cs-tools)
     - [Core Systems](#core-systems)
     - [Core Theory](#core-theory)
     - [Core Security](#core-security)
     - [Core Applications](#core-applications)
+    - [Core Ethics](#core-ethics)
   - [Advanced CS](#advanced-cs)
     - [Advanced Programming](#advanced-programming)
-    - [Advanced Applications](#advanced-applications)
+    - [Advanced Systems](#advanced-systems)
+    - [Advanced Theory](#advanced-theory)
+    - [Advanced Math](#advanced-math)
   - [Final Project](#final-project)
 
 # Summary
@@ -63,21 +71,18 @@ If you would like to fork this repository to track your own progress please find
 | University of Washington |                       [Programming Languages, Part A](https://www.coursera.org/learn/programming-languages)                        |     2019/04     | [Coursera Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/6_ProgrammingLanguagesA_Proof.png) |                                                                                                                                                                                                                                                                                                                                           [Private Coursework](https://github.com/t-miller/programming-languages-part-a)                                                                                                                                                                                                                                                                                                                                           |
 | University of Washington |                    [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b)                    |     2019/04     | [Coursera Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/7_ProgrammingLanguagesB_Proof.png) |                                                                                                                                                                                                                                                                                                                                           [Private Coursework](https://github.com/t-miller/programming-languages-part-b)                                                                                                                                                                                                                                                                                                                                           |
 | University of Washington |                    [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c)                    |     2019/05     | [Coursera Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/8_ProgrammingLanguagesC_Proof.png) |                                                                                                                                                                                                                                                                                                                                           [Private Coursework](https://github.com/t-miller/programming-languages-part-c)                                                                                                                                                                                                                                                                                                                                           |
-
-### Math Electives
-
-#### Linear Algebra
-
-| School  |                                                Course                                                 | Completion Date | Proof | Repository |
-| :-----: | :---------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|    -    | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |        -        |   -   |     -      |
-| MIT OCW |      [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)      |        -        |   -   |     -      |
+|  University of Alberta   |                          [Object-Oriented Design](https://www.coursera.org/learn/object-oriented-design)                           |        -        |                                                                    -                                                                     |                                                                                                                                                                                                                                                                                                                                                                                 -                                                                                                                                                                                                                                                                                                                                                                                  |
+|  University of Alberta   |                                 [Design Patterns](https://www.coursera.org/learn/design-patterns)                                  |        -        |                                                                    -                                                                     |                                                                                                                                                                                                                                                                                                                                                                                 -                                                                                                                                                                                                                                                                                                                                                                                  |
+|  University of Alberta   |                           [Software Architecture](https://www.coursera.org/learn/software-architecture)                            |        -        |                                                                    -                                                                     |                                                                                                                                                                                                                                                                                                                                                                                 -                                                                                                                                                                                                                                                                                                                                                                                  |
 
 ### Core Math
 
-| School  |                                                                                  Course                                                                                   | Completion Date | Proof | Repository |
-| :-----: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| MIT OCW | [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm) |        -        |   -   |     -      |
+|         Provider          |                                                                Course                                                                 | Completion Date | Proof | Repository |
+| :-----------------------: | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| MIT Open Learning Library |           [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about)            |        -        |   -   |     -      |
+| MIT Open Learning Library |             [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about)              |        -        |   -   |     -      |
+| MIT Open Learning Library | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) |        -        |   -   |     -      |
+| MIT Open Learning Library |           [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)           |        -        |   -   |     -      |
 
 ### CS Tools
 
@@ -115,42 +120,72 @@ If you would like to fork this repository to track your own progress please find
 
 ### Core Applications
 
-|     School      |                                                           Course                                                           | Completion Date | Proof | Repository |
-| :-------------: | :------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| Stanford Online |                         [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)                         |        -        |   -   |     -      |
-| Stanford Online |                      [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)                      |        -        |   -   |     -      |
-| Stanford Online |                      [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)                      |        -        |   -   |     -      |
-| Stanford Online |                            [Machine Learning](https://www.coursera.org/learn/machine-learning)                             |        -        |   -   |     -      |
-|  UC San DiegoX  |                  [Computer Graphics](https://www.edx.org/course/computer-graphics-uc-san-diegox-cse167x)                   |        -        |   -   |     -      |
-|      UBCx       |     [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x)      |        -        |   -   |     -      |
-|      UBCx       | [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) |        -        |   -   |     -      |
+|     School      |                                               Course                                               | Completion Date | Proof | Repository |
+| :-------------: | :------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| Stanford Online |          [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)          |        -        |   -   |     -      |
+| Stanford Online |             [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)             |        -        |   -   |     -      |
+| Stanford Online |          [Databases: Semistructured Data](https://www.edx.org/course/semistructured-data)          |        -        |   -   |     -      |
+| Stanford Online |                [Machine Learning](https://www.coursera.org/learn/machine-learning)                 |        -        |   -   |     -      |
+|  UC San DiegoX  |                [Computer Graphics](https://www.edx.org/course/computer-graphics-2)                 |        -        |   -   |     -      |
+|      UBCx       | [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction) |        -        |   -   |     -      |
+
+### Core Ethics
+
+|              Provider              |                                                       Course                                                        | Completion Date | Proof | Repository |
+| :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| Eindhoven University of Technology |         [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)          |        -        |   -   |     -      |
+| Saint Petersburg State University  | [Intellectual Property Law in Digital Age](https://www.coursera.org/learn/intellectual-property-law-in-digital-age) |        -        |   -   |     -      |
+|      Northeastern University       |                [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)                |        -        |   -   |     -      |
 
 ## Advanced CS
 
 ### Advanced Programming
 
-|     School      |                                                Course                                                | Completion Date | Proof | Repository |
-| :-------------: | :--------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|      EPFL       |                   [Parallel Programming](https://www.coursera.org/learn/parprog1)                    |        -        |   -   |     -      |
-| Stanford Online |                          [Compilers](https://www.edx.org/course/compilers)                           |        -        |   -   |     -      |
-|      UPenn      |                [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)                 |        -        |   -   |     -      |
-|        -        |                 [Learn Prolog Now](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)                 |        -        |   -   |     -      |
-|     Udacity     |            [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)            |        -        |   -   |     -      |
-|     Udacity     |              [Software Testing](https://www.udacity.com/course/software-testing--cs258)              |        -        |   -   |     -      |
-|  Georgia Tech   | [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821) |        -        |   -   |     -      |
+|         School          |                                      Course                                       | Completion Date | Proof | Repository |
+| :---------------------: | :-------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|          EPFL           | [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) |        -        |   -   |     -      |
+|     Stanford Online     |                 [Compilers](https://www.edx.org/course/compilers)                 |        -        |   -   |     -      |
+|          UPenn          |       [Introduction to Haskell](https://www.seas.upenn.edu/~cis194/fall16/)       |        -        |   -   |     -      |
+| University of Groningen |  [Learn Prolog Now!](https://www.let.rug.nl/bos/lpn//lpnpage.php?pageid=online)   |        -        |   -   |     -      |
+|         Udacity         |  [Software Debugging](https://www.udacity.com/course/software-debugging--cs259)   |        -        |   -   |     -      |
+|         Udacity         |    [Software Testing](https://www.udacity.com/course/software-testing--cs258)     |        -        |   -   |     -      |
 
-### Advanced Applications
+### Advanced Systems
 
-|          School           |                                                 Specialization                                                  | Completion Date | Proof | Repository |
-| :-----------------------: | :-------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-|       Northwestern        |                   [Modern Robotics](https://www.coursera.org/specializations/modernrobotics)                    |        -        |   -   |     -      |
-|  University of Illinois   |                       [Data Mining](https://www.coursera.org/specializations/data-mining)                       |        -        |   -   |     -      |
-|       UC San Diego        |                          [Big Data](https://www.coursera.org/specializations/big-data)                          |        -        |   -   |     -      |
-|       UC San Diego        |                [Internet of Things](https://www.coursera.org/specializations/internet-of-things)                |        -        |   -   |     -      |
-|  University of Illinois   |                   [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)                   |        -        |   -   |     -      |
-|             -             |                                 [Fullstack Open](https://fullstackopen.com/en)                                  |        -        |   -   |     -      |
-| Johns Hopkins University  |                    [Data Science](https://www.coursera.org/specializations/jhu-data-science)                    |        -        |   -   |     -      |
-|           EPFL            |                [Functional Programming in Scala](https://www.coursera.org/specializations/scala)                |        -        |   -   |     -      |
-| Michigan State University | [Game Design and Development Specialization](https://www.coursera.org/specializations/game-development#courses) |        -        |   -   |     -      |
+| Provider |                                                        Course                                                         | Completion Date | Proof | Repository |
+| :------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|   MITx   | [Computation Structures - Part 1: Digital Circuits](https://learning.edx.org/course/course-v1:MITx+6.004.1x_3+3T2016) |        -        |   -   |     -      |
+|   MITx   |   [Computation Structures 2: Computer Architecture](https://learning.edx.org/course/course-v1:MITx+6.004.2x+3T2015)   |        -        |   -   |     -      |
+|   MITx   |  [Computation Structures 3: Computer Organization](https://learning.edx.org/course/course-v1:MITx+6.004.3x_2+1T2017)  |        -        |   -   |     -      |
+
+### Advanced Theory
+
+|       Provider        |                                   Course                                    | Completion Date | Proof | Repository |
+| :-------------------: | :-------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| ArsDigita University  | [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw)  |        -        |   -   |     -      |
+|  Tsinghua University  | [Computational Geometry](https://www.edx.org/course/computational-geometry) |        -        |   -   |     -      |
+| Stanford Online & UBC |         [Game Theory](https://www.coursera.org/learn/game-theory-1)         |        -        |   -   |     -      |
+
+### Advanced Math
+
+|      Provider       |                                                Course                                                 | Completion Date | Proof | Repository |
+| :-----------------: | :---------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|     3Blue1Brown     | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |        -        |   -   |     -      |
+|       MIT OCW       |      [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)      |        -        |   -   |     -      |
+|   HSE University    |   [Introduction to Numerical Analysis](https://www.coursera.org/learn/intro-to-numerical-analysis)    |        -        |   -   |     -      |
+| Stanford University |              [Introduction to Logic](https://www.coursera.org/learn/logic-introduction)               |        -        |   -   |     -      |
+|       Harvard       |                      [Probability](https://projects.iq.harvard.edu/stat110/home)                      |        -        |   -   |     -      |
 
 ## Final Project
+
+|         Provider          |                                                   Specialization                                                    | Completion Date | Proof | Repository |
+| :-----------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|  University of Helsinki   |                                   [Fullstack Open](https://fullstackopen.com/en)                                    |        -        |   -   |     -      |
+|       Northwestern        |                     [Modern Robotics](https://www.coursera.org/specializations/modernrobotics)                      |        -        |   -   |     -      |
+|  University of Illinois   |                         [Data Mining](https://www.coursera.org/specializations/data-mining)                         |        -        |   -   |     -      |
+|       UC San Diego        |                            [Big Data](https://www.coursera.org/specializations/big-data)                            |        -        |   -   |     -      |
+|       UC San Diego        |                  [Internet of Things](https://www.coursera.org/specializations/internet-of-things)                  |        -        |   -   |     -      |
+|  University of Illinois   |                     [Cloud Computing](https://www.coursera.org/specializations/cloud-computing)                     |        -        |   -   |     -      |
+| Johns Hopkins University  |                      [Data Science](https://www.coursera.org/specializations/jhu-data-science)                      |        -        |   -   |     -      |
+|           EPFL            |                  [Functional Programming in Scala](https://www.coursera.org/specializations/scala)                  |        -        |   -   |     -      |
+| Michigan State University | [Game Design and Development with Unity 2020](https://www.coursera.org/specializations/game-design-and-development) |        -        |   -   |     -      |
