@@ -10,7 +10,6 @@
 
 - [Contents](#contents)
 - [Summary](#summary)
-- [Template](#template)
 - [Progress](#progress)
   - [Intro CS](#intro-cs)
     - [Introduction to Programming](#introduction-to-programming)
