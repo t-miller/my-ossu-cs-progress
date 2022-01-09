@@ -38,17 +38,7 @@
 
 # Summary
 
-This repository tracks my progress through the [OSSU Computer Science curriculum](https://github.com/ossu/computer-science). My work is tracked in private repositories, where applicable, so that no honour policies are broken.
-
-OSSU describes the program as:
-
-> ... a complete education in computer science using online materials. It's not merely for career training or professional development. It's for those who want a proper, well-rounded grounding in concepts fundamental to all computing disciplines, and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own, but with support from a worldwide community of fellow learners.
->
-> It is designed according to the degree requirements of undergraduate computer science majors, minus general education (non-CS) requirements, as it is assumed most of the people following this curriculum are already educated outside the field of CS.
-
-# Template
-
-If you would like to fork this repository to track your own progress please find the blank template [here](TEMPLATE.md).
+This repository tracks my progress through the OSSU Computer Science curriculum. My work is tracked in private repositories, where applicable, so that no honour policies are broken.
 
 # Progress
 
@@ -92,13 +82,13 @@ If you would like to fork this repository to track your own progress please find
 
 ### Core Systems
 
-|             School              |                                                        Course                                                         | Completion Date |                                                          Proof                                                          |                          Repository                           |
-| :-----------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
-|            HarvardX             |  [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)   |     2019/04     | [cs50.me Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/17_CS50_Proof.png) |    [Private Coursework](https://github.com/t-miller/cs50)     |
-| Hebrew University of Jerusalem  | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) |   In Progress   |                                                            -                                                            | [Private Coursework](https://github.com/t-miller/nand2tetris) |
-| Hebrew University of Jerusalem  | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)  |        -        |                                                            -                                                            |                               -                               |
-| University of Wisconsin–Madison |            [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)            |        -        |                                                            -                                                            |                               -                               |
-|        Stanford Lagunita        |    [Introduction to Computer Networking](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2dr0XO_Nwa5OcdEcaaELSG)    |        -        |                                                            -                                                            |                               -                               |
+|               School                |                                                        Course                                                         | Completion Date |                                                          Proof                                                          |                          Repository                           |
+| :---------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
+|              HarvardX               |  [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)   |     2019/04     | [cs50.me Grade Page](https://github.com/t-miller/OSSU-Computer-Science-Coursework/blob/master/Proofs/17_CS50_Proof.png) |    [Private Coursework](https://github.com/t-miller/cs50)     |
+|   Hebrew University of Jerusalem    | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) |   In Progress   |                                                            -                                                            | [Private Coursework](https://github.com/t-miller/nand2tetris) |
+|   Hebrew University of Jerusalem    | [Build a Modern Computer from First Principles: Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)  |        -        |                                                            -                                                            |                               -                               |
+|   University of Wisconsin–Madison   |            [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/Classes/537/Spring2018/)            |        -        |                                                            -                                                            |                               -                               |
+| University of Massachusetts Amherst |         [Computer Networking: a Top-Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)          |        -        |                                                            -                                                            |                               -                               |
 
 ### Core Theory
 
