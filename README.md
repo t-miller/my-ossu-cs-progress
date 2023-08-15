@@ -36,7 +36,7 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ## Introduction to Computer Science
 
-| School |                                                                  Course                                                                   | Completion Date |                                                   Proof                                                   |                                     Repository                                      |
+| Provider |                                                                  Course                                                                   | Completion Date |                                                   Proof                                                   |                                     Repository                                      |
 | :----: | :---------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
 |  MITx  | [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) |     2018/01     | [edX Progress Page](https://github.com/t-miller/my-ossu-cs-progress/blob/main/Proofs/1_6.00.1x_Proof.PNG) | [Private Coursework](https://github.com/t-miller/6.00.1x-intro-to-computer-science) |
 
@@ -44,7 +44,7 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Programming
 
-|          School          |                                                               Course                                                               | Completion Date |                                                           Proof                                                           |                                                                                                                                                                                                                                                                                                                                                                             Repository                                                                                                                                                                                                                                                                                                                                                                             |
+|          Provider          |                                                               Course                                                               | Completion Date |                                                           Proof                                                           |                                                                                                                                                                                                                                                                                                                                                                             Repository                                                                                                                                                                                                                                                                                                                                                                             |
 | :----------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-----------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |           UBCx           |                       [How to Code: Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x)                       |     2018/03     |          [edX Progress Page](https://github.com/t-miller/my-ossu-cs-progress/blob/main/Proofs/2_HtC1x_Proof.PNG)          |                                                                                                                                                                                                                                                                                                                                             [Private Coursework](https://github.com/t-miller/how-to-code-simple-data)                                                                                                                                                                                                                                                                                                                                              |
 |           UBCx           |                      [How to Code: Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x)                      |     2019/01     |          [edX Progress Page](https://github.com/t-miller/my-ossu-cs-progress/blob/main/Proofs/3_HtC2x_Proof.PNG)          |                                                                                                                                                                                                                                                                                                                                             [Private Coursework](https://github.com/t-miller/how-to-code-complex-data)                                                                                                                                                                                                                                                                                                                                             |
@@ -68,13 +68,13 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### CS Tools
 
-| School |                                   Course                                    | Completion Date | Proof | Repository |
+| Provider |                                   Course                                    | Completion Date | Proof | Repository |
 | :----: | :-------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 |  MIT   | [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/) |        -        |   -   |     -      |
 
 ### Core Systems
 
-|               School                |                                                        Course                                                         | Completion Date |                                                  Proof                                                   |                          Repository                           |
+|               Provider                |                                                        Course                                                         | Completion Date |                                                  Proof                                                   |                          Repository                           |
 | :---------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :-------------: | :------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------: |
 |              HarvardX               |  [CS50's Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)   |     2019/04     | [cs50.me Grade Page](https://github.com/t-miller/my-ossu-cs-progress/blob/main/Proofs/17_CS50_Proof.png) |    [Private Coursework](https://github.com/t-miller/cs50)     |
 |   Hebrew University of Jerusalem    | [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) |     2021/01     |                                                    -                                                     | [Private Coursework](https://github.com/t-miller/nand2tetris) |
@@ -84,7 +84,7 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Theory
 
-|     School      |                                                              Course                                                              | Completion Date | Proof | Repository |
+|     Provider      |                                                              Course                                                              | Completion Date | Proof | Repository |
 | :-------------: | :------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | Stanford Online | [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/learn/algorithms-divide-conquer) |        -        |   -   |     -      |
 | Stanford Online |      [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)       |        -        |   -   |     -      |
@@ -93,7 +93,7 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Security
 
-|        School        |                                                                        Course                                                                        | Completion Date | Proof | Repository |
+|        Provider        |                                                                        Course                                                                        | Completion Date | Proof | Repository |
 | :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | University of London |                      [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)                      |        -        |   -   |     -      |
 |       UC Davis       |                                [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)                                |        -        |   -   |     -      |
@@ -102,7 +102,7 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Applications
 
-|     School      |                                               Course                                               | Completion Date | Proof | Repository |
+|     Provider      |                                               Course                                               | Completion Date | Proof | Repository |
 | :-------------: | :------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 | Stanford Online |          [Databases: Modeling and Theory](https://www.edx.org/course/modeling-and-theory)          |        -        |   -   |     -      |
 | Stanford Online |             [Relational Databases and SQL](https://www.edx.org/course/databases-5-sql)             |        -        |   -   |     -      |
@@ -123,7 +123,7 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Advanced Programming
 
-|         School          |                                      Course                                       | Completion Date | Proof | Repository |
+|         Provider          |                                      Course                                       | Completion Date | Proof | Repository |
 | :---------------------: | :-------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
 |          EPFL           | [Parallel Programming](https://www.coursera.org/learn/scala-parallel-programming) |        -        |   -   |     -      |
 |     Stanford Online     |                 [Compilers](https://www.edx.org/course/compilers)                 |        -        |   -   |     -      |
