@@ -11,7 +11,8 @@
 - [Contents](#contents)
 - [Summary](#summary)
 - [Progress](#progress)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
+  - [Intro CS](#intro-cs)
+    - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
     - [Core Programming](#core-programming)
     - [Core Math](#core-math)
@@ -25,6 +26,7 @@
     - [Advanced Programming](#advanced-programming)
     - [Advanced Systems](#advanced-systems)
     - [Advanced Theory](#advanced-theory)
+    - [Advanced Information Security](#advanced-information-security)
     - [Advanced Math](#advanced-math)
   - [Final Project](#final-project)
 
@@ -34,7 +36,9 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 # Progress
 
-## Introduction to Computer Science
+## Intro CS
+
+### Introduction to Computer Science
 
 | Provider |                                                                  Course                                                                   | Completion Date |                                                   Proof                                                   |                                     Repository                                      |
 | :----: | :---------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :-------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------: |
@@ -93,11 +97,11 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Security
 
-|        Provider        |                                                                        Course                                                                        | Completion Date | Proof | Repository |
-| :------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| University of London |                      [Information Security: Context and Introduction](https://www.coursera.org/learn/information-security-data)                      |        -        |   -   |     -      |
-|       UC Davis       |                                [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)                                |        -        |   -   |     -      |
-|       UC Davis       |                     [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)                      |        -        |   -   |     -      |
+| Provider |                                                                        Course                                                                        | Completion Date | Proof | Repository |
+| :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|   RITx   |                                 [Cybersecurity Fundamentals](https://www.edx.org/course/cybersecurity-fundamentals)                                  |        -        |   -   |     -      |
+| UC Davis |                                [Principles of Secure Coding](https://www.coursera.org/learn/secure-coding-principles)                                |        -        |   -   |     -      |
+| UC Davis |                     [Identifying Security Vulnerabilities](https://www.coursera.org/learn/identifying-security-vulnerabilities)                      |        -        |   -   |     -      |
 |       UC Davis       | [Exploiting and Securing Vulnerabilities in Java Applications](https://www.coursera.org/learn/exploiting-securing-vulnerabilities-java-applications) |        -        |   -   |     -      |
 
 ### Core Applications
@@ -113,11 +117,11 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 
 ### Core Ethics
 
-|              Provider              |                                                       Course                                                        | Completion Date | Proof | Repository |
-| :--------------------------------: | :-----------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
-| Eindhoven University of Technology |         [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)          |        -        |   -   |     -      |
-| Saint Petersburg State University  | [Intellectual Property Law in Digital Age](https://www.coursera.org/learn/intellectual-property-law-in-digital-age) |        -        |   -   |     -      |
-|      Northeastern University       |                [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)                |        -        |   -   |     -      |
+|              Provider              |                                                   Course                                                   | Completion Date | Proof | Repository |
+| :--------------------------------: | :--------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+| Eindhoven University of Technology |     [Ethics, Technology and Engineering](https://www.coursera.org/learn/ethics-technology-engineering)     |        -        |   -   |     -      |
+|     University of Pennsylvania     | [Introduction to Intellectual Property](https://www.coursera.org/learn/introduction-intellectual-property) |        -        |   -   |     -      |
+|      Northeastern University       |           [Data Privacy Fundamentals](https://www.coursera.org/learn/northeastern-data-privacy)            |        -        |   -   |     -      |
 
 ## Advanced CS
 
@@ -147,6 +151,18 @@ This repository tracks my progress through the OSSU Computer Science curriculum.
 | ArsDigita University  | [Theory of Computation](http://aduni.org/courses/theory/index.php?view=cw)  |        -        |   -   |     -      |
 |  Tsinghua University  | [Computational Geometry](https://www.edx.org/course/computational-geometry) |        -        |   -   |     -      |
 | Stanford Online & UBC |         [Game Theory](https://www.coursera.org/learn/game-theory-1)         |        -        |   -   |     -      |
+
+### Advanced Information Security
+
+|             Provider             |                                                                                  Course                                                                                  | Completion Date | Proof | Repository |
+| :------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :---: | :--------: |
+|            KULeuvenX             |                                            [Web Security Fundamentals](https://www.edx.org/course/web-security-fundamentals)                                             |        -        |   -   |     -      |
+| University of California, Irvine |                                    [Security Governance & Compliance](https://www.coursera.org/learn/security-governance-compliance)                                     |        -        |   -   |     -      |
+|             Infosec              |                                         [Digital Forensics Concepts](https://www.coursera.org/learn/digital-forensics-concepts)                                          |        -        |   -   |     -      |
+|         LinuxFoundationX         |           [Secure Software Development: Requirements, Design, and Reuse](https://www.edx.org/course/secure-software-development-requirements-design-and-reuse)           |        -        |   -   |     -      |
+|         LinuxFoundationX         |                           [Secure Software Development: Implementation](https://www.edx.org/course/secure-software-development-implementation)                           |        -        |   -   |     -      |
+|         LinuxFoundationX         | [Secure Software Development: Verification and More Specialized Topics](https://www.edx.org/course/secure-software-development-verification-and-more-specialized-topics) |        -        |   -   |     -      |
+
 
 ### Advanced Math
 
